@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlamyaTask</string>
+    <string name="enter_city_name">enter city name</string>
+    <string name="search">Search</string>
+    <string name="sorry_no_data_founded">Sorry No Data Founded</string>
+    <string name="weather">Weather</string>
+    <string name="network_error">Network Error</string>
+    <string name="citynotfound">City Not Found</string>
+</resources>
